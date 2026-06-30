@@ -1,0 +1,104 @@
+canonical_identifier: bkk:krp/KR5f0021/bkk/v1/markers/10
+seq: 10
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5f0021_HFL_010-001a01}
+  - {type: variant, offset: 0, length: 8, content: 抱朴子外篇卷之十, SBCK: ''}
+  - {type: page-break, offset: 0, content: '', id: KR5f0021_SJB_010-280268c, image: sjb/28/280268c.png}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5f0021_HFL_010-001a02}
+  - {type: indent, offset: 0, content: 　　　, id: KR5f0021_krp_010-bkkind1}
+  - {type: 'kr:newline', offset: 2, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl2}
+  - {type: line-break, offset: 2, content: '', id: KR5f0021_HFL_010-001a03}
+  - {type: 'kr:newline', offset: 19, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl3}
+  - {type: line-break, offset: 19, content: '', id: KR5f0021_HFL_010-001a04}
+  - {type: variant, offset: 29, length: 1, content: 夏, SBCK: 厦}
+  - {type: variant, offset: 32, length: 1, content: 賴, SBCK: 頼}
+  - {type: substitution, offset: 33, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
+  - {type: 'kr:newline', offset: 36, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl4}
+  - {type: line-break, offset: 36, content: '', id: KR5f0021_HFL_010-001a05}
+  - {type: 'kr:newline', offset: 53, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl5}
+  - {type: line-break, offset: 53, content: '', id: KR5f0021_HFL_010-001a06}
+  - {type: variant, offset: 68, length: 1, content: 寑, SBCK: 寢}
+  - {type: substitution, offset: 68, original: 寑, replacement: 寢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1411}}
+  - {type: 'kr:newline', offset: 70, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl6}
+  - {type: line-break, offset: 70, content: '', id: KR5f0021_HFL_010-001a07}
+  - {type: 'kr:newline', offset: 87, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl7}
+  - {type: line-break, offset: 87, content: '', id: KR5f0021_HFL_010-001a08}
+  - {type: substitution, offset: 100, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
+  - {type: 'kr:newline', offset: 104, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl8}
+  - {type: line-break, offset: 104, content: '', id: KR5f0021_HFL_010-001a09}
+  - {type: variant, offset: 117, length: 1, content: 弊, SBCK: ''}
+  - {type: 'kr:newline', offset: 121, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl9}
+  - {type: line-break, offset: 121, content: '', id: KR5f0021_HFL_010-001a10}
+  - {type: page-break, offset: 122, content: '', id: KR5f0021_SBCK_010-1b}
+  - {type: variant, offset: 126, length: 1, content: 劍, SBCK: 劔}
+  - {type: variant, offset: 127, length: 1, content: 戟, SBCK: 㦸}
+  - {type: variant, offset: 134, length: 1, content: 鑽, SBCK: 鑚}
+  - {type: 'kr:newline', offset: 138, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl10}
+  - {type: page-break, offset: 138, content: '', id: KR5f0021_HFL_010-001b, image: hfl/0871/0871-105.png}
+  - {type: 'kr:newline', offset: 138, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl11}
+  - {type: line-break, offset: 138, content: '', id: KR5f0021_HFL_010-001b01}
+  - {type: 'kr:newline', offset: 155, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl12}
+  - {type: line-break, offset: 155, content: '', id: KR5f0021_HFL_010-001b02}
+  - {type: 'kr:newline', offset: 171, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl13}
+  - {type: 'kr:newline', offset: 171, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl14}
+  - {type: 'kr:newline', offset: 171, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl15}
+  - {type: line-break, offset: 171, content: '', id: KR5f0021_HFL_010-001b03}
+  - {type: variant, offset: 177, length: 1, content: 之, SBCK: ''}
+  - {type: 'kr:newline', offset: 179, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl16}
+  - {type: 'kr:newline', offset: 179, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl17}
+  - {type: 'kr:newline', offset: 179, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl18}
+  - {type: 'kr:newline', offset: 179, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl19}
+  - {type: 'kr:newline', offset: 179, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl20}
+  - {type: 'kr:newline', offset: 179, content: '
+
+      ', id: KR5f0021_krp_010-bkkkrnewl21}
+  - {type: variant, offset: 179, length: 0, content: '', SBCK: 終抱朴子外篇卷}
+  - {type: page-break, offset: 179, content: '', id: KR5f0021_SBCK_011-1a}
+  back: []
+hash: sha256:82612c466194bcfb24239d8f67ebecd90e7e1609b8f476b4a7af1c227ddc8c09

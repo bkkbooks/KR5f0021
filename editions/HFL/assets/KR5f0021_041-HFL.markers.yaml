@@ -1,0 +1,75 @@
+canonical_identifier: bkk:krp/KR5f0021/HFL/v1/markers/41
+seq: 41
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5f0021_HFL_041-001a01}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl2}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl3}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl4}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl5}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl6}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl7}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl8}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl9}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl10}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl11}
+  - {type: page-break, offset: 9, content: '', id: KR5f0021_HFL_041-001b, image: hfl/0873/0873-097.png}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl12}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl13}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl14}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl15}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl16}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl17}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl18}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl19}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl20}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl21}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR5f0021_HFL_041-bkkkrnewl22}
+  back: []
+hash: sha256:add9d85763398ed2e578ef2804cd494cd073ae7b703da12cddcb351de74c00b0

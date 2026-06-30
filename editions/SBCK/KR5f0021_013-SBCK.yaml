@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/SBCK/v1/juan/13
+seq: 13
+front:
+  text: 十三
+  hash: sha256:a91b9ac3ed0dfdc450f45fb2b83046ce5a9a8ec70b9cdde20825a99c1b41fb9c
+body:
+  text: 晋丹陽洪稚川著欽士抱朴子曰由余在戎而秦穆惟憂楚殺得臣而晉文乃喜樂毅出而燕壞種蠡入而越霸破國亡家失士者也豈徒有之者重無之者輕而已哉桞惠之墓猶挫元冦之銳況於坐之於朝廷乎干木之猶退踐境之攻況於置之於端右乎郅都之象使勁虜振慴孔明之尸猶令大國寢鋒以此禦侮則地必不侵矣以此率師則主必不辱矣是以明主旅束帛於窮巷揚滯羽於瘁林飛翹車於河梁闢四門而不倦不吝金璧不逺千里不憚屈已不耻卑辭而以致賢為首務得士為重寳舉之者受上賞蔽之者為竊位故公旦執贄於白屋秦卲拜昌於張生鄒子涉境而燕君擁篲莊周未食而趙惠竦立晉文接亥唐脚痺而坐不敢正齊侫之造稷丘雖頻繁而不辭其勞楚王受笞於保申簡去甲於公廬彼雖降高抑滿以貴下賤終亦并目以逺其明假耳以廣其聦龍騰虎據宜其然也抱朴子外篇卷十三終抱朴子外篇卷十四晋丹陽洪稚川著
+  hash: sha256:915a593834fabeeb4afbeeb87789566fba83a1990ee26f41d8830da6731e7a9c
+  markers:
+  - {type: page-break, offset: 128, content: '', id: KR5f0021_SBCK_013-1b}
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_013.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:2a2f9e69322f581a597d85952249bbd6d114a7af64e7c664316e7f02fe747dcb

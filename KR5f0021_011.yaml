@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/krp/v1/juan/11
+seq: 11
+front:
+  text: 抱朴子外篇卷之十一
+  hash: sha256:76473d9a182cad92ac6f4df8587ef5f0d9ad7f7ede72a85fb29508795ffde6ff
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0021_HFL_011-001a, image: hfl/0871/0871-106.png}
+body:
+  text: 貴賢抱朴子曰舍輕艘而涉無涯者不見其必濟也無良輔而羡隆平者未聞其有成也鴻鸞之淩虛者六翮之力也淵虬之天飛者雲霧之偕也故招賢用才者人主之要務也立功立事者髦俊之所思也若乃樂治定而忽智士者何異欲致遠塗而棄騏騄哉夫拔丘園之否滯舉遺漏之幽人職盡其才祿稱其功者君所以待賢者也勤夙夜之在公竭心力於百揆進善退惡知無不為者臣所以報知己也世有隱逸之民而無獨立之主者士可以嘉遁而無憂君不可以無臣而致治是以傅說吕尚不汲汲於聞達者道德備則輕王公也而殷高周文乃夢想乎得賢者建洪勛必須良佐也患於生乎深宫之中長乎婦人之手不識稼穡之艱難不知憂懼之何理承家繼體蔽于崇替所急在乎侈靡至務在乎游宴般于畋獵湎于酣樂聞淫聲則驚聽見艷色則改視役聰用明止此二事鑒澄人物不以經神唯識玩弄可以悅心志不知竒士可以安社稷犀象珠玉無足而至自萬里之外定傾之器能行而淪乎四境之內二堅之疾既據而募良醫楝橈之禍已集而思謀夫何異乎火起乃穿井覺飢而占田哉夫庸隸猶不可以不拊循而卒盡其力安可以無素而暴得其用哉抱朴子外篇卷之十一
+  hash: sha256:04f1506566cc1c5ee1f42ea58311bad2ce3baa7a8746d2d0a5542c0e95523162
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_011.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:71eb64964f414653813e3cb37e443f1e93a937d6df465be041b55eec482ea706

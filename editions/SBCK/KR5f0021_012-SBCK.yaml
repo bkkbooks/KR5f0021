@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/SBCK/v1/juan/12
+seq: 12
+front:
+  text: 十二
+  hash: sha256:80b044f1afc988e190cb0b200f3c2bc63554109f22803000ca0ee0fa9f440729
+body:
+  text: 晋丹陽洪稚川著任能或曰尾大於身者不可掉臣賢於君者不可任故口不容而强吞之者必哽才非匹而委仗之者見輕抱朴子曰詭哉言乎昔者荆子總角而攝相事實賴二十五老臻乎惠康子賤起家而治大寔由勝已者多而招其弘益齊桓殺兄而立鳥獸其行被髮彛酒婦閭三百委政仲父遂為覇宗夷吾既終禍亂亟起魯用季子二十餘年内無粃政外無侵削人之亡沒殄瘁響集豈非才所不逺其功如彼自任其事其禍如此乎漢高決䇿於玄幃定勝乎千里則不如良平治兵多而益善所向無敵則不如信布兼而用之帝業克成故疾步累趨未若託乘乎逸足尋飛逐走未若假伎乎鷹犬夫勁弩難彀而可以摧堅逮逺大舟難乘而可以致重濟深猛將難御而可以折衝拓境高賢難臨而可以攸叙彛倫昔魯哀庸主也仲尼上聖不敢不盡其節齊景下才也而晏嬰大賢不敢不竭其誠豈有人臣當與其君校智力之多少計局量之優劣必須堯舜乃為之役哉何事非君何使非民耻令其君不及唐虞此亦達者之用心也抱朴子外篇卷十二終抱朴子外篇卷
+  hash: sha256:3b009bd54d8caf7e8472b80d0524399b179030b6098fc798dc4eca10fd3ba62c
+  markers:
+  - {type: page-break, offset: 128, content: '', id: KR5f0021_SBCK_012-1b}
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_012.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:d87f6d06e40d387d326969f47529a17236e62468f75c7214983ca4aa3d0f8d3b

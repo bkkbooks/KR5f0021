@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/SBCK/v1/juan/17
+seq: 17
+front:
+  text: 十七
+  hash: sha256:9e27d43472e7138f608c54020a2bb392b10cb3e8651c0bb68eb8c5b0649dfc72
+body:
+  text: 晋丹陽葛洪稚川著備闕抱朴子曰騕褭駿馬也於皎切能奮蘭筋以絶景而不能履氷以乗深猛虎能似雷霆以噬而不能踊雲霧以凌虚鴻鶤不能振翅於籠卓之中輕鷂不能電擊於几筵之下物旣然矣人亦如之故能調和隂陽者未必能兼百行脩簡書也能敷五邁九者不必能全小㓗經曲碎也惠子上相之摽也而不能役舟檝以凌陽侯漢髙神武之傑也而不能治産業端檢栝淮隂良將之元也而不能修農商免飢寒周勃社稷之骾也而不能答錢穀責獄辭若以所短弃所長則逸儕㧞萃之才不用矣責大體而論細禮則匡世濟民之勲不著矣天不能平其西北地不能隆其東南日月不能摛光於曲穴衝風不能揚波於井底擿齒則松檟不及一寸之筳挑耳則棟梁不如鷦鷯之羽彈烏則千金不及丸泥之用縫緝則長劒不及數分之針何必伏巨象而捕䑕制大鵬以司晨乎故姜牙賣煦無所售而見師於文武蔣生憒慢於百里而獨步三槐抱朴子外篇卷十七終抱朴子外篇卷
+  hash: sha256:672a8f396693966c951689b4597eaf5e0123cef3282a09d53278f5f47d6bfe3f
+  markers:
+  - {type: page-break, offset: 132, content: '', id: KR5f0021_SBCK_017-1b}
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_017.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:9f24f64ec511310c3aa99415cb41ef84144d1d0fff62436758444ab06ac6c05a

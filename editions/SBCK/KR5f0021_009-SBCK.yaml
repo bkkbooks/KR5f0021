@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/SBCK/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 官理抱朴子曰騄駬之騁逸迹由造父之御也禹稷之序百揆遭唐虞之主也故能不勞而千里至揖譲而頌聲作若乃臧獲之乘驌騻殷辛之臨三仁欲長驅輕騖則轡急轅逼欲盡規竭忠則禍如發機所以車傾於險塗國覆而不振也故良駿敗於拙御智士躓於闇世仲尼不能止魯侯之出晏嬰不能遏崔杼之亂其才則是主則非也夫君猶器也臣猶物也器小物大不能相受矣髫孺背千金而逐蛺蜨越人棄八珎而甘鼃黽即患不賞好又病不識惡矣夫不用則雖珎而不貴矣莫與則傷之者必至昔衛靈聴聖言而數驚秦孝聞高談而睡而欲緝隆平之化牧良能之勲猶却行以逐馳適楚而首燕也抱朴子外篇卷九終抱朴子外篇卷十晋丹陽洪稚川著
+  hash: sha256:ceb151650d062006ab66ff18cf8a1553a272ae8a371c35595037b5d746ad7b8e
+  markers:
+  - {type: page-break, offset: 122, content: '', id: KR5f0021_SBCK_009-1b}
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_009.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:c18dcd29bb978a8dee791301e98e62ef102a9c9ffcfa54d07af1390c9f212aa1

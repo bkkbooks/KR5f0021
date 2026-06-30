@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/HFL/v1/juan/10
+seq: 10
+front:
+  text: 抱朴子外篇卷之十
+  hash: sha256:495c39ab41ed3dfcf3d12c121ccc17f9f10ff8ee0fc7a985b2af52cc960f93db
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0021_HFL_010-001a, image: hfl/0871/0871-104.png}
+body:
+  text: 務正抱朴子曰南溟引朝宗以成不測之深玄圃崇木石以致極天之峻大夏凌霄賴群橑之積輪曲轅直無可闕之物故元凱之佐登而格天之化洽折衝之才周則逐鹿之姦寑舜禹所以有天下而不與衛靈所以雖驕恣而不危也衆力并則萬鈞不足舉也群智用則庶績不足康也故繁足者死而不弊多士者亂而不亡然劍戟不長於縫緝錐鑽不可以擊斷牛馬不能吠守雞犬不任駕乘役其所長則事無廢功避其所短則世無棄材矣抱朴子外篇卷之十
+  hash: sha256:f7c979d1c6b6cf6d61cd1d2e04bbe5ed682fa636352ffc608cc5f8bd4eea280a
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_010.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:27958915bd81896584d49039598cf9d8511206456d9c6092ba18bc94fdee3351

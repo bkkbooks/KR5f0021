@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/ZTDZ/v1/juan/41
+seq: 41
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 抱朴子外篇卷之四十
+  hash: sha256:028b2ac880fc02b977b49f14b28e5dcee0e664bfb05d901c52c1bd50021d4258
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0021_SJB_041-280323b, image: sjb/28/280323b.png}
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_041.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:213f37a03e06da6c892fb44d8cd8e84d1587f2c4c3fa511b48e1e116515d5518

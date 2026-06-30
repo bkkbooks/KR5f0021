@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/SBCK/v1/juan/45
+seq: 45
+front:
+  text: 四十四
+  hash: sha256:6b3f3fb856682badb3ce7f175f01b70432d999c3927a7eb12faf35fce2769048
+body:
+  text: 晋丹陽洪稚川著百家抱朴子曰百家之言雖不皆清翰鋭藻弘麗汪濊然悉才士所寄心一夫澄思也正經為道義之淵海子書為增深之川流仰而比之則景星之佐三辰俯而方之則林薄之禆嵩嶽而學者專守一業游井忽海遂䟾躓於泥濘之中而沈滯乎不移之囦子書彼引玄曠邈泓窈緫不測之源揚無遺之流變化不繫扵規矩之方圓旁通不淪於違正之邪徑風格高嚴重仭難盡是偏嗜酸甜者莫能賞其也用思有限者不得辯其神也先民歎息於才難故百世為隨踵不以璞不生板桐之嶺而捐曜夜之寶不以書不出周孔之門而廢教之言猶彼操水者噐雖異而救火同焉譬若鍼灸者術雖殊而攻疾均焉狹見之徒區區執一去博亂精思而不識合錙銖可以齊重於山陵聚百千可以致數於億兆或詩賦碎之文而忽子論深羙之言真偽顛倒玉石混殽同廣樂於桑間均龍章於素質可悲可慨豈一條哉抱朴子外篇卷四十四終抱朴子外篇卷
+  hash: sha256:912d99344d6316d68b97989285407879ff65c843eadc4ea5a208d72b5893c046
+  markers:
+  - {type: page-break, offset: 128, content: '', id: KR5f0021_SBCK_044-1b}
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_045.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:529551db625a9ae08d04385ee1bb87af53d2e34335ba8fa5c0b2b40906d9e21a

@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/ZTDZ/v1/juan/17
+seq: 17
+front:
+  text: 抱朴子外篇卷之十七
+  hash: sha256:30e7f6950d3c387876fe2abf552245f3e65c2f622082a840668fc1603f219834
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0021_SJB_017-280280a, image: sjb/28/280280a.png}
+body:
+  text: 備闕抱朴子曰騕褭於皎切駿馬也能奮蘭筋以絶景而不能履冰以乘深猛虎能似雷霆以搏噬而不能踊雲霧以淩虚鴻鶤不能振翅於籠罩之中輕鷂不能電擊於几筵之下物既然矣人亦如之故能調和隂陽者未必能兼百行脩簡書也能敷五邁九者不必能全小潔經曲碎也惠子上相之摽也而不能役舟橄以凌陽侯漢高神武之傑也而不能治産業端檢栝淮隂良將之元也而不能脩農商免飢寒周勃社稷之骾也而不能答錢穀責獄辭若以所短弃所長則逸儕拔萃之才不用矣責其體而論細禮則匠世濟民之勳不著矣天下能平其西北地不能隆其東南日月不能摛光於曲穴衝風不能揚波於井底擿齒則松檟不及一寸之筳桃耳則楝梁不如鷦鷯之羽彈鳥則千金不及丸泥之用縫緝則長劍不及數分之針何必伏巨象而捕鼠制大鵬以司晨乎故姜牙賣煦無所售而見師於文武蔣生憒慢於百里而獨步三槐抱朴子外篇卷之十七
+  hash: sha256:8b5b246cc451f05ece93c730eb1b05845582497f0054ab9533ee9f3972853dd3
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_017.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:a54479fee57ed0ee1c393a9c493b9ba56854740329d201bc06baf64fbc302377

@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/SBCK/v1/juan/42
+seq: 42
+front:
+  text: 四十一
+  hash: sha256:181626f3e3b4a870fcf03683f80290d5ace9fe7dd7541d627e1e3818a38c7038
+body:
+  text: 晋丹陽洪稚川著循本抱朴子曰玄寂虛静者神明之本也隂陽柔剛者二儀之本也巍峩巖岫者山嶽之本也德行文學者君子之本也莫或無本而能立焉是以欲致其高必豐其墓欲茂其末必深其秪鄉黨之友不洽而勤逺方之求涖官之稱不著而索不次之顯是以雖佻虛譽猶狂華干霜以寒曜不崇朝而零瘁矣雖竊大寶於不料冐惟塵以負乗猶鮮介附騰波以高凌顧眄已枯株於危陸矣聖賢孜孜勉之彼淺近蹻蹻忽之如此積習則忘鮑肆之臭裸鄉不覺呈形之醜自非遁世而無悶齊物於通塞者安能棄近易而尋迂濶哉將救斯弊其術無他徒擢民於巖岫任才而不計也抱朴子外篇卷四十一終抱朴子外篇卷
+  hash: sha256:ea9cc6dcaaa2a0cf61f31c53f0854e43ddec2160d1896c8ff876a259e7909e40
+  markers:
+  - {type: page-break, offset: 129, content: '', id: KR5f0021_SBCK_041-1b}
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_042.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:6a539722d6b9ec4e6558e38bfb57afb589fc03cacb7fd708b64351f0990a8461

@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5f0021/CK-KZ-jye/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之有述
+  hash: sha256:ff8c747c1cde0fbc470250da77720fa9363aaad46d8b3153aa777206b953e1ef
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_003.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:fbc31dbbd7d8d6d22ea02fe67888ff01df7d9bf2b754735e8b5a2916ddaa4bba

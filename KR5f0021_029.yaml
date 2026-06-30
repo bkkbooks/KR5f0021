@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/krp/v1/juan/29
+seq: 29
+front:
+  text: 抱朴子外篇卷之二十九
+  hash: sha256:5c1702d87b2cab0bffc670269ac72d390d6045acca202c97c48d46538c686cde
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0021_HFL_029-001a, image: hfl/0872/0872-114.png}
+body:
+  text: 接疏抱朴子曰以英逸而遭大明桑蔭未移而金蘭之協已固矣以長才而遇深識則不待歷試而相知之情已審矣飄乎猶起鴻之乘徑風翩乎若騰鱗之躡驚雲也若以沈抑而可忽乎則姜公不用於周矣若以疏賤而可距乎則毛生不貴乎趙矣若積素行乃託政則寧戚不顯於齊矣若貴宿名而委任則陳韓不録於漢矣明者舉大略細不忮不求故能取威定功成天平地豈肯稱薪而爨數粒乃炊并瑕弃璧披毛索黶哉抱朴子外篇卷之二十九
+  hash: sha256:6fe29e5d5c56a514064f4eb141d987d051bd72ecb4fa8295001662b3a2adba1c
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_029.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:52c87f3ecb708c8e3a599d46856e5f8a3a8d62ae1f6dd80e21f4a2629a6ab0dc

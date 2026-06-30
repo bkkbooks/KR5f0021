@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/ZTDZ/v1/juan/42
+seq: 42
+front:
+  text: 抱朴子外篇卷之四十一四十二四十三四十四四十五同卷志三
+  hash: sha256:49b8a6dc959b4420a8d697831fe5261f0b73a994645fe9c676164306664082f5
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0021_SJB_042-280323c, image: sjb/28/280323c.png}
+body:
+  text: 循本抱朴子曰玄寂虚靜者神明之本也隂陽柔剛者二儀之本也巍峩巖岫者山嶽之本也德行文學者君子之本也莫或無本而能立焉是以欲致其高必豐其基欲茂其末必深其柢郷黨之友不洽而勤遠方之求涖官之稱不著而索不次之顯是以雖佻虚譽猶狂華千霜以寒曜不崇朝而零瘁矣雖竊大寳於不料冒惟塵以負乘猶鮮介附騰波以高凌顧眄已枯株於危陸矣聖賢孜孜勉之若彼淺近蹻蹻忽之如此積習則忘鮑肆之臭裸郷不覺呈形之醜自非遁世而無悶齊物於通塞者安能棄近易而尋迂闊哉將救斯弊其術無他徒擢民於巖岫任才而不計也抱朴子外篇卷之四十一
+  hash: sha256:2fa8be9f01b8af2221c72869ad05e1d83402d058e82e2c9dd723fd855336df03
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_042.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:55ddadac7e79b751df77033567c84242cf87cca699fb4213d2dc96561022517d

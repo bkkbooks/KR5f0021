@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/krp/v1/juan/40
+seq: 40
+front:
+  text: 抱朴子外篇卷之四十
+  hash: sha256:028b2ac880fc02b977b49f14b28e5dcee0e664bfb05d901c52c1bd50021d4258
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0021_HFL_040-001a, image: hfl/0873/0873-092.png}
+body:
+  text: 辭義或曰乾坤方圓非規矩之功三辰摛景非瑩磨之力春華粲焕非漸染之采茝蕙芬馥非容氣所假知夫至真貴乎天然也義以罕覿為異辭以不常為美而歷觀古今屬文之家鮮能挺逸麗於毫端多斟酌於前言何也抱朴子曰清音貴於雅韻克諧著作珍乎判微析理故八音形器異而鍾律同黼黻文物殊而五色均徒間澀有主賔妍蚩有步驟是則總章無常曲火庖無定味夫梓豫山積非班匠不能成機巧衆書無限非英才不能收膏腴何必尋木千里乃構大厦鬼神之言乃著篇章乎抱朴子曰夫才有清濁思有修短雖並屬文參差萬品或浩漾而不淵潭或得事情而辭鈍違物理而言功蓋偏長之一致非兼通之才也暗於自料强欲兼之違才易務故不免嗤也抱朴子曰五味舛而並甘衆色乖而皆麗近人之情愛同憎異貴乎合己賤於殊途夫文章之體尤難詳賞苟以入耳為佳適心為快鮮知忘味之九成雅頌之風流也所謂考鹽梅之鹹酸不知大羹之不致明飄颻之細巧蔽於沈深之弘邃也其英異宏逸者則羅網乎玄黃之表其拘束齷齪者則羈紲於籠罩之內振翅有利鈍則翔集有高卑騁迹有遲迅則進趨有遠近駑鋭不可膠柱調也文貴豐瞻何必稱善如一口乎不能拯風俗之流遁世塗之凌夷通疑者之路賑貧者之乏何異春華不為肴糧之用茝蕙不救冰寒之急古詩刺過失故有益而貴今詩純虛譽故有損而賤也抱朴子曰屬筆之家亦各有病其深者則患乎譬煩言冗申誡廣喻欲棄而惜不覺成煩也其淺者則患乎妍而無據證援不給皮膚鮮澤而骨鯁迥弱也繁華暐曄則並七曜以高麗沈微淪妙則儕玄淵之無測人事靡細而不浹王道無微而不備故能身賤而言貴千載彌彰焉
+  hash: sha256:141c1e1401b418d8657528660a83d4be094129e08150416e53690641ad0ee29e
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_040.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:e966832e6a440e5dcee32fa5095e8db620ac2af689e75e827923f0158d5dfe17

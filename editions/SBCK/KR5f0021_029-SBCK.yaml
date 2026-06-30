@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/SBCK/v1/juan/29
+seq: 29
+front:
+  text: 二十九
+  hash: sha256:7f23a496e1eb859e042c55e28c6ee203a562aa9013b0739ce30e4bf8240420ee
+body:
+  text: 晋丹陽洪稚川著接䟽抱朴子曰以英逸而遭大明桑䕃未移而金蘭之恊已固矣以長才而遇深識則不待歴試而相知之情已審矣飄乎猶起鴻之乗勁風翩乎若騰鱗之躡驚雲也若以沈抑而可忽乎則姜公不用於周矣若以疏賤而可距乎則毛生不貴乎趙矣若積素行乃說政則寗戚不顯於齊矣若貴宿名而委任則陳韓不録於漢矣明者舉大畧細不忮不求故能取威定功成天平地豈肯稱薪而㸑數粒乃炊并瑕弃璧披毛索黶哉抱朴子外篇卷二十九終抱朴子外篇卷
+  hash: sha256:77f75a12a996e78ffd757e79c1a3c1191981169f8d1ae789ee4a8a51756a3845
+  markers:
+  - {type: page-break, offset: 129, content: '', id: KR5f0021_SBCK_029-1b}
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_029.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:80718533f208f26ba58b37d8dd003fbbbebd70f422ae0276bae886f4fd2ea469

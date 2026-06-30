@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0021/SBCK/v1/juan/11
+seq: 11
+front:
+  text: 十一
+  hash: sha256:41cbc3e287cbeb5581532e5ce509a62c991a99eadfa9d6276e41eacbbda4d3f5
+body:
+  text: 晋丹陽洪稚川著貴賢抱朴子曰舎輕艘而渉無涯者不見其必濟也無良輔而羨隆平者未聞其有成也鴻鸞之凌虚者六翮之力也淵虬之天飛者雲霧之偕也故招賢用才者人主之要務也立功立事者髦俊之所思也若乃樂治定而忽智士者何異欲致逺塗而棄騏騄哉夫拔丘園之否滯舉遺漏之幽人職盡其才禄稱其功者君所以待賢者也勤夙夜之在公竭心力於百揆進善退惡知無不為者臣所以報知己也世有逸之民而無獨立之主者士可以嘉遁而無憂君不可以無臣而致治是以傅説吕尚不汲汲於聞達者道徳備則輕王公也而殷高周文乃夢想乎得賢者建洪勛必湏良佐也患於生乎深宫之中長乎婦人之手不識稼穡之艱難不知憂懼之何理承家繼體蔽于崇替所急在乎侈靡至務在乎游宴般于畋獵湎于酣樂聞滛聲則驚聴見艶色則改視役聰用明止此二事鑒澄人物不以經神唯識玩弄可以恱心志不知竒士可以安社稷犀象珠玉無足而至自萬里之外定傾之器能行而淪乎四境之内二竪之疾既據而募良醫棟橈之禍已集而思謀夫何異乎火起乃穿井覺飢而占田哉夫庸猶不可以不拊循而卒盡其力安可以無素而暴得其用哉抱朴子外篇卷十一終抱朴子外篇卷
+  hash: sha256:12192bb313647da4baea172f016956e95678851310ff48224db510874dcc7781
+  markers:
+  - {type: page-break, offset: 129, content: '', id: KR5f0021_SBCK_011-1b}
+metadata:
+  title: 抱朴子外篇
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-29 02:24:47.654051'
+  source:
+    repository: kanripo
+    path: KR5f0021/KR5f0021_011.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:34b5289c5b35ddd84f6a5f6a34b6e031675c61a3c5573bba3780cd8b7beae534
