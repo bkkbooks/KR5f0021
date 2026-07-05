@@ -24,7 +24,6 @@ markers:
   - {type: line-break, offset: 19, content: '', id: KR5f0021_HFL_010-001a04}
   - {type: variant, offset: 29, length: 1, content: 夏, SBCK: 厦}
   - {type: variant, offset: 32, length: 1, content: 賴, SBCK: 頼}
-  - {type: substitution, offset: 33, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: 'kr:newline', offset: 36, content: '
 
       ', id: KR5f0021_krp_010-bkkkrnewl4}
@@ -34,7 +33,6 @@ markers:
       ', id: KR5f0021_krp_010-bkkkrnewl5}
   - {type: line-break, offset: 53, content: '', id: KR5f0021_HFL_010-001a06}
   - {type: variant, offset: 68, length: 1, content: 寑, SBCK: 寢}
-  - {type: substitution, offset: 68, original: 寑, replacement: 寢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1411}}
   - {type: 'kr:newline', offset: 70, content: '
 
       ', id: KR5f0021_krp_010-bkkkrnewl6}
@@ -43,7 +41,6 @@ markers:
 
       ', id: KR5f0021_krp_010-bkkkrnewl7}
   - {type: line-break, offset: 87, content: '', id: KR5f0021_HFL_010-001a08}
-  - {type: substitution, offset: 100, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: 'kr:newline', offset: 104, content: '
 
       ', id: KR5f0021_krp_010-bkkkrnewl8}
@@ -101,4 +98,4 @@ markers:
   - {type: variant, offset: 179, length: 0, content: '', SBCK: 終抱朴子外篇卷}
   - {type: page-break, offset: 179, content: '', id: KR5f0021_SBCK_011-1a}
   back: []
-hash: sha256:82612c466194bcfb24239d8f67ebecd90e7e1609b8f476b4a7af1c227ddc8c09
+hash: sha256:a6ce1310a2fd41b996d6b92053be614d880c65befbd6f121199583c79f968b60
