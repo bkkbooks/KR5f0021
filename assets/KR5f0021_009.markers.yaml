@@ -41,6 +41,7 @@ markers:
 
       ', id: KR5f0021_krp_009-bkkkrnewl7}
   - {type: line-break, offset: 87, content: '', id: KR5f0021_HFL_009-001a08}
+  - {type: substitution, offset: 102, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17591}}
   - {type: 'kr:newline', offset: 104, content: '
 
       ', id: KR5f0021_krp_009-bkkkrnewl8}
@@ -62,7 +63,9 @@ markers:
 
       ', id: KR5f0021_krp_009-bkkkrnewl12}
   - {type: line-break, offset: 155, content: '', id: KR5f0021_HFL_009-001b02}
+  - {type: substitution, offset: 156, original: 蜨, replacement: 蝶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17734}}
   - {type: variant, offset: 161, length: 1, content: 珍, SBCK: 珎}
+  - {type: substitution, offset: 164, original: 鼃, replacement: 蛙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17458}}
   - {type: 'kr:newline', offset: 172, content: '
 
       ', id: KR5f0021_krp_009-bkkkrnewl13}
@@ -82,6 +85,7 @@ markers:
 
       ', id: KR5f0021_krp_009-bkkkrnewl16}
   - {type: line-break, offset: 223, content: '', id: KR5f0021_HFL_009-001b06}
+  - {type: substitution, offset: 223, original: 勲, replacement: 勳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20646}}
   - {type: 'kr:newline', offset: 236, content: '
 
       ', id: KR5f0021_krp_009-bkkkrnewl17}
@@ -99,4 +103,4 @@ markers:
   - {type: variant, offset: 244, length: 0, content: '', SBCK: 終抱朴子外篇卷十晋丹陽洪稚川著}
   - {type: page-break, offset: 244, content: '', id: KR5f0021_SBCK_010-1a}
   back: []
-hash: sha256:938729c51b12572d34f6c534ec5009149aa685a84f1f56c26b1c5ab4f8cc7b3a
+hash: sha256:309cea6881ed863f42e2cf2916c1b396d3e989001423fc786a40c365736514b0

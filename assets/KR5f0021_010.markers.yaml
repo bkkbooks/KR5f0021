@@ -33,6 +33,7 @@ markers:
       ', id: KR5f0021_krp_010-bkkkrnewl5}
   - {type: line-break, offset: 53, content: '', id: KR5f0021_HFL_010-001a06}
   - {type: variant, offset: 68, length: 1, content: 寑, SBCK: 寢}
+  - {type: substitution, offset: 68, original: 寑, replacement: 寢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17651}}
   - {type: 'kr:newline', offset: 70, content: '
 
       ', id: KR5f0021_krp_010-bkkkrnewl6}
@@ -98,4 +99,4 @@ markers:
   - {type: variant, offset: 179, length: 0, content: '', SBCK: 終抱朴子外篇卷}
   - {type: page-break, offset: 179, content: '', id: KR5f0021_SBCK_011-1a}
   back: []
-hash: sha256:a6ce1310a2fd41b996d6b92053be614d880c65befbd6f121199583c79f968b60
+hash: sha256:dbdea75d707d715bc05dce98a852eff7e6d81cff617dddf31d06dae1ef3bbcef

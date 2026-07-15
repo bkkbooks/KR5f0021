@@ -20,6 +20,7 @@ markers:
   - {type: line-break, offset: 2, content: '', id: KR5f0021_HFL_008-001a03}
   - {type: variant, offset: 9, length: 1, content: 隱, SBCK: ''}
   - {type: variant, offset: 12, length: 1, content: 爲, SBCK: 為}
+  - {type: substitution, offset: 12, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:newline', offset: 19, content: '
 
       ', id: KR5f0021_krp_008-bkkkrnewl3}
@@ -63,6 +64,7 @@ markers:
       ', id: KR5f0021_krp_008-bkkkrnewl11}
   - {type: line-break, offset: 138, content: '', id: KR5f0021_HFL_008-001b01}
   - {type: variant, offset: 154, length: 1, content: 說, SBCK: 説}
+  - {type: substitution, offset: 154, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: 'kr:newline', offset: 155, content: '
 
       ', id: KR5f0021_krp_008-bkkkrnewl12}
@@ -82,11 +84,13 @@ markers:
       ', id: KR5f0021_krp_008-bkkkrnewl15}
   - {type: line-break, offset: 206, content: '', id: KR5f0021_HFL_008-001b05}
   - {type: variant, offset: 217, length: 1, content: 袁, SBCK: ''}
+  - {type: substitution, offset: 221, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: 'kr:newline', offset: 223, content: '
 
       ', id: KR5f0021_krp_008-bkkkrnewl16}
   - {type: line-break, offset: 223, content: '', id: KR5f0021_HFL_008-001b06}
   - {type: variant, offset: 228, length: 1, content: 爲, SBCK: 為}
+  - {type: substitution, offset: 228, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: variant, offset: 238, length: 1, content: 往, SBCK: 徃}
   - {type: 'kr:newline', offset: 240, content: '
 
@@ -111,6 +115,7 @@ markers:
   - {type: variant, offset: 300, length: 1, content: 尚, SBCK: ''}
   - {type: page-break, offset: 303, content: '', id: KR5f0021_SBCK_008-2a}
   - {type: variant, offset: 306, length: 1, content: 說, SBCK: ''}
+  - {type: substitution, offset: 306, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: 'kr:newline', offset: 308, content: '
 
       ', id: KR5f0021_krp_008-bkkkrnewl21}
@@ -191,4 +196,4 @@ markers:
   - {type: variant, offset: 353, length: 0, content: '', SBCK: 終抱朴子外篇卷之九晋丹陽洪稚川著}
   - {type: page-break, offset: 353, content: '', id: KR5f0021_SBCK_009-1a}
   back: []
-hash: sha256:741fe19ac3126cfff9eac7bde23b906b20f03677039e5b999929acb8ca2c1c86
+hash: sha256:00a709290e6f81bfe5e40d2ccb09b455821c81b1c9e00f52895aac0525772467

@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR5f0021_HFL_029-001a, image: hfl/0872/0872-114.png}
 body:
-  text: 接䟽抱朴子曰以英逸而遭大明桑蔭未移而金蘭之恊已固矣以長才而遇深識則不待歷試而相知之情已審矣飄乎猶起鴻之乘勁風翩乎若騰鱗之躡驚雲也若以沈抑而可忽乎則姜公不用於周矣若以疏賤而可距乎則毛生不貴乎趙矣若積素行乃託政則甯戚不顯於齊矣若貴宿名而委任則陳韓不録於漢矣明者舉大略細不忮不求故能取威定功成天平地豈肯稱薪而爨數粒乃炊并瑕弃璧披毛索黶哉抱朴子外篇卷之二十九
-  hash: sha256:598ea9e62319b590a6618e302701ba323e2ec7d6eee774edbc0940b008560959
+  text: 接疏抱朴子曰以英逸而遭大明桑蔭未移而金蘭之協已固矣以長才而遇深識則不待歷試而相知之情已審矣飄乎猶起鴻之乘徑風翩乎若騰鱗之躡驚雲也若以沈抑而可忽乎則薑公不用於周矣若以疏賤而可距乎則毛生不貴乎趙矣若積素行乃託政則寧戚不顯於齊矣若貴宿名而委任則陳韓不録於漢矣明者舉大略細不忮不求故能取威定功成天平地豈肯稱薪而爨數粒乃炊并瑕棄璧披毛索黶哉抱朴子外篇卷之二十九
+  hash: sha256:b7c2427c041fc4db128651a399923c2382de64ef50020c37f2aaae1cb776b201
 metadata:
   title: 抱朴子外篇
   edition:
@@ -23,4 +23,4 @@ metadata:
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
     HFL: http://img.kanripo.org/daoist/ztdz/
     CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
-hash: sha256:04ab466593ef6e82720d43cd58c0e372adbc7e7eb87f7ee3a3b211d08d9ba54e
+hash: sha256:dee26535d18efff49a7eaf6f26ecefb90f6d281102e9921a80f8b2be62699a6f
