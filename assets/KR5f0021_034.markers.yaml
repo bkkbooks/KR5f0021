@@ -10,6 +10,7 @@ markers:
   - {type: page-break, offset: 0, content: '', id: KR5f0021_SJB_034-280305a, image: sjb/28/280305a.png}
   - {type: punctuation, offset: 10, content: (, id: KR5f0021_krp_034-bkkpn1}
   - {type: variant, offset: 10, length: 14, content: 三十五三十六三十七同卷真十二, SBCK: 晋丹陽洪稚川著}
+  - {type: voice, offset: 10, length: 11, name: note, id: n1}
   - {type: punctuation, offset: 16, content: /, id: KR5f0021_krp_034-bkkpn2}
   - {type: punctuation, offset: 21, content: ), id: KR5f0021_krp_034-bkkpn3}
   body:
@@ -358,6 +359,7 @@ markers:
   - {type: line-break, offset: 937, content: '', id: KR5f0021_HFL_034-003b08}
   - {type: punctuation, offset: 941, content: (, id: KR5f0021_krp_034-bkkpn1}
   - {type: variant, offset: 941, length: 0, content: '', SBCK: 古}
+  - {type: voice, offset: 941, length: 3, name: note, id: n1}
   - {type: variant, offset: 942, length: 1, content: 古, SBCK: ''}
   - {type: punctuation, offset: 943, content: /, id: KR5f0021_krp_034-bkkpn2}
   - {type: punctuation, offset: 944, content: ), id: KR5f0021_krp_034-bkkpn3}
@@ -575,4 +577,4 @@ markers:
   - {type: variant, offset: 1336, length: 0, content: '', SBCK: 終抱朴子外篇卷}
   - {type: page-break, offset: 1336, content: '', id: KR5f0021_SBCK_035-1a}
   back: []
-hash: sha256:2a72f755e56b2416245d1b7a3dc6ee4fba26797dd2769ef2511536e3651aff82
+hash: sha256:aac01a451011ffeb0e1f9d9a14c6fa447ba20ba79c88f26402d49a41f0c24279

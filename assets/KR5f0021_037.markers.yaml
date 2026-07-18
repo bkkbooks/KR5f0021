@@ -55,6 +55,7 @@ markers:
   - {type: page-break, offset: 122, content: '', id: KR5f0021_SBCK_037-1b}
   - {type: punctuation, offset: 126, content: (, id: KR5f0021_krp_037-bkkpn1}
   - {type: variant, offset: 126, length: 0, content: '', SBCK: 子笑切嚼也}
+  - {type: voice, offset: 126, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 131, content: /, id: KR5f0021_krp_037-bkkpn2}
   - {type: variant, offset: 131, length: 5, content: 子笑切嚼也, SBCK: ''}
   - {type: punctuation, offset: 136, content: ), id: KR5f0021_krp_037-bkkpn3}
@@ -439,4 +440,4 @@ markers:
   - {type: page-break, offset: 1112, content: '', id: KR5f0021_SBCK_037-5a}
   - {type: page-break, offset: 1112, content: '', id: KR5f0021_SBCK_038-1a}
   back: []
-hash: sha256:173b37e47fda96c19dd2199e8e697cad7cd69245116cacf9bec1c3f745ee90e5
+hash: sha256:4df4ac3f1b0f59dbaf6e5ce29de72a3577312b0864652cd02489642a826b1156

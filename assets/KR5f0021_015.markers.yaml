@@ -506,6 +506,7 @@ markers:
   - {type: line-break, offset: 1498, content: '', id: KR5f0021_HFL_015-005b01}
   - {type: punctuation, offset: 1507, content: (, id: KR5f0021_krp_015-bkkpn1}
   - {type: variant, offset: 1507, length: 0, content: '', SBCK: 切}
+  - {type: voice, offset: 1507, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 1509, content: /, id: KR5f0021_krp_015-bkkpn2}
   - {type: variant, offset: 1509, length: 1, content: 切, SBCK: ''}
   - {type: punctuation, offset: 1510, content: ), id: KR5f0021_krp_015-bkkpn3}
@@ -1013,4 +1014,4 @@ markers:
   - {type: variant, offset: 2967, length: 0, content: '', SBCK: 終抱朴子外篇卷}
   - {type: page-break, offset: 2967, content: '', id: KR5f0021_SBCK_016-1a}
   back: []
-hash: sha256:b56575399b7f224b14835144543a3639daad24907c171a0be21c593b82593d64
+hash: sha256:728bdff9896fafe9322e7ed01f14562c6137e91b93e988d53e2d154cafd84009

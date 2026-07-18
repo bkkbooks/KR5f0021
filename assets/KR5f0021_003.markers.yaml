@@ -16,6 +16,7 @@ markers:
   - {type: variant, offset: 6, length: 1, content: 之, WYG: ''}
   - {type: punctuation, offset: 8, content: (, id: KR5f0021_krp_003-bkkpn1}
   - {type: variant, offset: 8, length: 7, content: 四同卷真三勗學, WYG: 晉葛洪撰譏惑第二十六}
+  - {type: voice, offset: 8, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 10, content: /, id: KR5f0021_krp_003-bkkpn2}
   - {type: punctuation, offset: 11, content: ), id: KR5f0021_krp_003-bkkpn3}
   body:
@@ -870,4 +871,4 @@ markers:
   - {type: variant, offset: 1768, length: 0, content: '', SBCK: 終抱朴子外篇卷四晋丹陽洪稚川著}
   - {type: page-break, offset: 1768, content: '', id: KR5f0021_SBCK_004-1a}
   back: []
-hash: sha256:d23d4025b460aa271bd9cca14321e423c8e784ac032d95bce7aba56dfdb6de80
+hash: sha256:98898a80181bf371c2350c0346768815948c71525490898362ad1cb351c36c5c

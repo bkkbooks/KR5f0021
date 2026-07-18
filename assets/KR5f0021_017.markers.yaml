@@ -22,6 +22,7 @@ markers:
   - {type: substitution, offset: 7, original: 褭, replacement: 裊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18244}}
   - {type: punctuation, offset: 8, content: (, id: KR5f0021_krp_017-bkkpn1}
   - {type: variant, offset: 8, length: 0, content: '', SBCK: 駿馬也}
+  - {type: voice, offset: 8, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 11, content: /, id: KR5f0021_krp_017-bkkpn2}
   - {type: variant, offset: 11, length: 3, content: 駿馬也, SBCK: ''}
   - {type: punctuation, offset: 14, content: ), id: KR5f0021_krp_017-bkkpn3}
@@ -202,4 +203,4 @@ markers:
   - {type: variant, offset: 335, length: 0, content: '', SBCK: 終抱朴子外篇卷}
   - {type: page-break, offset: 335, content: '', id: KR5f0021_SBCK_018-1a}
   back: []
-hash: sha256:06b845587d8fa344d3e71c10587874ac411dd08a850b88e06385ce3d49b7b517
+hash: sha256:2ff7c8a044a5131f3bf2e757308994c7b8867983ed81f4c8cfd0f0ce67a9d977

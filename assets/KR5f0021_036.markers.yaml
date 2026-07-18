@@ -128,6 +128,7 @@ markers:
   - {type: substitution, offset: 315, original: 銳, replacement: 鋭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20839}}
   - {type: punctuation, offset: 323, content: (, id: KR5f0021_krp_036-bkkpn1}
   - {type: variant, offset: 323, length: 1, content: 陟, SBCK: 切歩}
+  - {type: voice, offset: 323, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 325, content: /, id: KR5f0021_krp_036-bkkpn2}
   - {type: variant, offset: 325, length: 1, content: 切, SBCK: ''}
   - {type: punctuation, offset: 326, content: ), id: KR5f0021_krp_036-bkkpn3}
@@ -493,4 +494,4 @@ markers:
   - {type: variant, offset: 1266, length: 0, content: '', SBCK: 終抱朴子外篇卷}
   - {type: page-break, offset: 1266, content: '', id: KR5f0021_SBCK_037-1a}
   back: []
-hash: sha256:be21b461fa3afd9bf6d28be8d2fe5cd4def72d49931aaf578781ef5a416d776a
+hash: sha256:9731772eef6dfb0f8c3e3f652ecfe1dfa999b8e8956d46def2d3330e58f6081b

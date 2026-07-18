@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 15, content: 抱朴子外篇卷之十四十五同卷真六, SBCK: ''}
   - {type: page-break, offset: 0, content: '', id: KR5f0021_SJB_014-280271a, image: sjb/28/280271a.png}
   - {type: punctuation, offset: 9, content: (, id: KR5f0021_krp_014-bkkpn1}
+  - {type: voice, offset: 9, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 11, content: /, id: KR5f0021_krp_014-bkkpn2}
   - {type: punctuation, offset: 13, content: ), id: KR5f0021_krp_014-bkkpn3}
   body:
@@ -813,6 +814,7 @@ markers:
   - {type: page-break, offset: 2339, content: '', id: KR5f0021_SJB_014-280273b, image: sjb/28/280273b.png}
   - {type: punctuation, offset: 2354, content: (, id: KR5f0021_krp_014-bkkpn1}
   - {type: variant, offset: 2354, length: 2, content: 虛獫, SBCK: ''}
+  - {type: voice, offset: 2354, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 2356, content: /, id: KR5f0021_krp_014-bkkpn2}
   - {type: punctuation, offset: 2357, content: ), id: KR5f0021_krp_014-bkkpn3}
   - {type: 'kr:newline', offset: 2357, content: '
@@ -894,6 +896,7 @@ markers:
   - {type: substitution, offset: 2604, original: 薙, replacement: 剃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17007}}
   - {type: punctuation, offset: 2605, content: (, id: KR5f0021_krp_014-bkkpn4}
   - {type: variant, offset: 2605, length: 0, content: '', SBCK: 切}
+  - {type: voice, offset: 2605, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 2607, content: /, id: KR5f0021_krp_014-bkkpn5}
   - {type: variant, offset: 2607, length: 1, content: 切, SBCK: ''}
   - {type: punctuation, offset: 2608, content: ), id: KR5f0021_krp_014-bkkpn6}
@@ -903,6 +906,7 @@ markers:
   - {type: line-break, offset: 2613, content: '', id: KR5f0021_HFL_014-008b07}
   - {type: punctuation, offset: 2613, content: (, id: KR5f0021_krp_014-bkkpn7}
   - {type: variant, offset: 2613, length: 0, content: '', SBCK: 切}
+  - {type: voice, offset: 2613, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 2615, content: /, id: KR5f0021_krp_014-bkkpn8}
   - {type: variant, offset: 2615, length: 1, content: 切, SBCK: ''}
   - {type: punctuation, offset: 2616, content: ), id: KR5f0021_krp_014-bkkpn9}
@@ -1115,4 +1119,4 @@ markers:
   - {type: variant, offset: 3105, length: 0, content: '', SBCK: 終抱朴子外篇卷十五晋丹陽洪稚川著}
   - {type: page-break, offset: 3105, content: '', id: KR5f0021_SBCK_015-1a}
   back: []
-hash: sha256:53b9e1ea9a619c9920acffb01ed1da42fa1783607d77e15654e2cc4f71adc24e
+hash: sha256:12ec3d36d416f498a476f3bbd9c94eb797b30ee30a19a8c1afeb219109e17f82

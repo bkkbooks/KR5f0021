@@ -10,6 +10,7 @@ markers:
   - {type: page-break, offset: 0, content: '', id: KR5f0021_SJB_039-280317a, image: sjb/28/280317a.png}
   - {type: punctuation, offset: 10, content: (, id: KR5f0021_krp_039-bkkpn1}
   - {type: variant, offset: 10, length: 6, content: 四十同卷志二, SBCK: 晉丹陽葛洪稚川著}
+  - {type: voice, offset: 10, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 12, content: /, id: KR5f0021_krp_039-bkkpn2}
   - {type: punctuation, offset: 14, content: ), id: KR5f0021_krp_039-bkkpn3}
   body:
@@ -1933,4 +1934,4 @@ markers:
   - {type: variant, offset: 5115, length: 0, content: '', SBCK: 終抱朴子外篇卷四十晋丹陽洪稚川著}
   - {type: page-break, offset: 5115, content: '', id: KR5f0021_SBCK_040-1a}
   back: []
-hash: sha256:86131de6e1c561c8204e06897a069df404ca6b2bf755e9f7097496592f955d48
+hash: sha256:4d47defb34acf7e557e11a1bc4f811e625f3394d3689a585439ed6e1eeb49dd7

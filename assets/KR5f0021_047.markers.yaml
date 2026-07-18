@@ -10,6 +10,7 @@ markers:
   - {type: page-break, offset: 0, content: '', id: KR5f0021_SJB_047-280327b, image: sjb/28/280327b.png}
   - {type: punctuation, offset: 10, content: (, id: KR5f0021_krp_047-bkkpn1}
   - {type: variant, offset: 10, length: 1, content: 四, SBCK: 晋}
+  - {type: voice, offset: 10, length: 5, name: note, id: n1}
   - {type: variant, offset: 11, length: 1, content: 十, SBCK: 丹}
   - {type: variant, offset: 12, length: 1, content: 七, SBCK: 陽}
   - {type: punctuation, offset: 13, content: /, id: KR5f0021_krp_047-bkkpn2}
@@ -700,4 +701,4 @@ markers:
   - {type: variant, offset: 1837, length: 0, content: '', SBCK: 終抱朴子外篇卷}
   - {type: page-break, offset: 1837, content: '', id: KR5f0021_SBCK_047-1a}
   back: []
-hash: sha256:df51fdcd1af461a424792bec81934c75ac0051566ed9b7b4c7c3762ea39561c7
+hash: sha256:93e996a80aa61d72c70c66f60c7ff7e9a53487f296e380d62e2fb1c5e29b1ceb

@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 23, content: 抱朴子外篇卷之七八九十十一十二十三同卷真五良規, SBCK: ''}
   - {type: page-break, offset: 0, content: '', id: KR5f0021_SJB_007-280266b, image: sjb/28/280266b.png}
   - {type: punctuation, offset: 8, content: (, id: KR5f0021_krp_007-bkkpn1}
+  - {type: voice, offset: 8, length: 11, name: note, id: n1}
   - {type: punctuation, offset: 13, content: /, id: KR5f0021_krp_007-bkkpn2}
   - {type: punctuation, offset: 19, content: ), id: KR5f0021_krp_007-bkkpn3}
   body:
@@ -127,6 +128,7 @@ markers:
   - {type: line-break, offset: 335, content: '', id: KR5f0021_HFL_007-002a03}
   - {type: punctuation, offset: 344, content: (, id: KR5f0021_krp_007-bkkpn1}
   - {type: variant, offset: 344, length: 0, content: '', SBCK: 張口也}
+  - {type: voice, offset: 344, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 347, content: /, id: KR5f0021_krp_007-bkkpn2}
   - {type: variant, offset: 347, length: 3, content: 張口也, SBCK: ''}
   - {type: punctuation, offset: 350, content: ), id: KR5f0021_krp_007-bkkpn3}
@@ -438,4 +440,4 @@ markers:
   - {type: variant, offset: 1160, length: 0, content: '', SBCK: 終抱朴子外篇卷八晋丹陽洪稚川著}
   - {type: page-break, offset: 1160, content: '', id: KR5f0021_SBCK_008-1a}
   back: []
-hash: sha256:6959f7c8dbe34eca80ff8a0874ddeac283e6b288ca8250ba82456e0e2f45f72c
+hash: sha256:c0519b87f236c959e8c089446f7378e91d9c756110e70e92c63f3ef3a0d64c33

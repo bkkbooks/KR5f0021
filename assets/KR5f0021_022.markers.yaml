@@ -456,6 +456,7 @@ markers:
   - {type: line-break, offset: 1260, content: '', id: KR5f0021_HFL_022-004b07}
   - {type: punctuation, offset: 1261, content: (, id: KR5f0021_krp_022-bkkpn1}
   - {type: variant, offset: 1261, length: 1, content: 步, SBCK: ''}
+  - {type: voice, offset: 1261, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 1263, content: /, id: KR5f0021_krp_022-bkkpn2}
   - {type: variant, offset: 1263, length: 0, content: '', SBCK: 歩}
   - {type: punctuation, offset: 1264, content: ), id: KR5f0021_krp_022-bkkpn3}
@@ -787,6 +788,7 @@ markers:
   - {type: line-break, offset: 2196, content: '', id: KR5f0021_HFL_022-007b02}
   - {type: punctuation, offset: 2205, content: (, id: KR5f0021_krp_022-bkkpn4}
   - {type: variant, offset: 2205, length: 0, content: '', SBCK: 下音夫}
+  - {type: voice, offset: 2205, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 2208, content: /, id: KR5f0021_krp_022-bkkpn5}
   - {type: variant, offset: 2208, length: 3, content: 下音夫, SBCK: ''}
   - {type: punctuation, offset: 2211, content: ), id: KR5f0021_krp_022-bkkpn6}
@@ -916,4 +918,4 @@ markers:
   - {type: variant, offset: 2369, length: 0, content: '', SBCK: 終抱朴子外篇卷}
   - {type: page-break, offset: 2369, content: '', id: KR5f0021_SBCK_023-1a}
   back: []
-hash: sha256:ccf8e08f1344d650ed7a605fe52de43bc47aff32a4ee04f43d31c039dad1af1f
+hash: sha256:b832aca5a9c4aace9915f6a58c1d0c6d67748962f868e90a941b60aba16ca6cd

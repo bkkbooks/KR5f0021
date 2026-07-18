@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 22, content: 抱朴子外篇卷之二十二十一二十二二十三同卷真八, SBCK: ''}
   - {type: page-break, offset: 0, content: '', id: KR5f0021_SJB_020-280283a, image: sjb/28/280283a.png}
   - {type: punctuation, offset: 9, content: (, id: KR5f0021_krp_020-bkkpn1}
+  - {type: voice, offset: 9, length: 11, name: note, id: n1}
   - {type: punctuation, offset: 15, content: /, id: KR5f0021_krp_020-bkkpn2}
   - {type: punctuation, offset: 20, content: ), id: KR5f0021_krp_020-bkkpn3}
   body:
@@ -121,6 +122,7 @@ markers:
   - {type: page-break, offset: 302, content: '', id: KR5f0021_SBCK_020-2a}
   - {type: punctuation, offset: 305, content: (, id: KR5f0021_krp_020-bkkpn1}
   - {type: variant, offset: 305, length: 3, content: 勃高切, SBCK: ''}
+  - {type: voice, offset: 305, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 308, content: /, id: KR5f0021_krp_020-bkkpn2}
   - {type: punctuation, offset: 311, content: ), id: KR5f0021_krp_020-bkkpn3}
   - {type: 'kr:newline', offset: 311, content: '
@@ -216,6 +218,7 @@ markers:
   - {type: substitution, offset: 552, original: 琱, replacement: 雕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17779}}
   - {type: punctuation, offset: 553, content: (, id: KR5f0021_krp_020-bkkpn4}
   - {type: variant, offset: 553, length: 0, content: '', SBCK: 切}
+  - {type: voice, offset: 553, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 555, content: /, id: KR5f0021_krp_020-bkkpn5}
   - {type: variant, offset: 555, length: 1, content: 切, SBCK: ''}
   - {type: punctuation, offset: 556, content: ), id: KR5f0021_krp_020-bkkpn6}
@@ -363,6 +366,7 @@ markers:
   - {type: variant, offset: 979, length: 1, content: 髮, SBCK: 髪}
   - {type: punctuation, offset: 986, content: (, id: KR5f0021_krp_020-bkkpn7}
   - {type: variant, offset: 986, length: 0, content: '', SBCK: 切}
+  - {type: voice, offset: 986, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 988, content: /, id: KR5f0021_krp_020-bkkpn8}
   - {type: variant, offset: 988, length: 1, content: 切, SBCK: ''}
   - {type: punctuation, offset: 989, content: ), id: KR5f0021_krp_020-bkkpn9}
@@ -495,16 +499,19 @@ markers:
   - {type: page-break, offset: 1333, content: '', id: KR5f0021_SJB_020-280284b, image: sjb/28/280284b.png}
   - {type: punctuation, offset: 1341, content: (, id: KR5f0021_krp_020-bkkpn10}
   - {type: variant, offset: 1341, length: 0, content: '', SBCK: 切}
+  - {type: voice, offset: 1341, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 1343, content: /, id: KR5f0021_krp_020-bkkpn11}
   - {type: variant, offset: 1343, length: 0, content: '', SBCK: 鞞}
   - {type: punctuation, offset: 1344, content: ), id: KR5f0021_krp_020-bkkpn12}
   - {type: variant, offset: 1344, length: 1, content: 鞞, SBCK: ''}
   - {type: punctuation, offset: 1345, content: (, id: KR5f0021_krp_020-bkkpn13}
+  - {type: voice, offset: 1345, length: 3, name: note, id: n5}
   - {type: punctuation, offset: 1347, content: /, id: KR5f0021_krp_020-bkkpn14}
   - {type: variant, offset: 1347, length: 1, content: 切, SBCK: ''}
   - {type: punctuation, offset: 1348, content: ), id: KR5f0021_krp_020-bkkpn15}
   - {type: punctuation, offset: 1351, content: (, id: KR5f0021_krp_020-bkkpn16}
   - {type: variant, offset: 1351, length: 0, content: '', SBCK: 高}
+  - {type: voice, offset: 1351, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 1352, content: /, id: KR5f0021_krp_020-bkkpn17}
   - {type: variant, offset: 1352, length: 1, content: 高, SBCK: ''}
   - {type: punctuation, offset: 1353, content: ), id: KR5f0021_krp_020-bkkpn18}
@@ -613,4 +620,4 @@ markers:
   - {type: variant, offset: 1661, length: 0, content: '', SBCK: 終抱朴子外篇卷}
   - {type: page-break, offset: 1661, content: '', id: KR5f0021_SBCK_021-1a}
   back: []
-hash: sha256:2ad05c0ee5215f35189c204bd512b21d884a354ff04e4dbde8b2cd46631c2f01
+hash: sha256:b278984321ef0f2199774527cb93803d8cf6bbfa4e01316e14562f82a6788afb

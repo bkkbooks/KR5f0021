@@ -7,6 +7,7 @@ markers:
       ', id: KR5f0021_ZTDZ_014-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR5f0021_SJB_014-280271a01}
   - {type: punctuation, offset: 9, content: (, id: KR5f0021_ZTDZ_014-bkkpn1}
+  - {type: voice, offset: 9, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 11, content: /, id: KR5f0021_ZTDZ_014-bkkpn2}
   - {type: punctuation, offset: 13, content: ), id: KR5f0021_ZTDZ_014-bkkpn3}
   body:
@@ -607,6 +608,7 @@ markers:
       ', id: KR5f0021_ZTDZ_014-bkkkrnewl140}
   - {type: line-break, offset: 2339, content: '', id: KR5f0021_SJB_014-280273b01}
   - {type: punctuation, offset: 2354, content: (, id: KR5f0021_ZTDZ_014-bkkpn1}
+  - {type: voice, offset: 2354, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 2356, content: /, id: KR5f0021_ZTDZ_014-bkkpn2}
   - {type: punctuation, offset: 2357, content: ), id: KR5f0021_ZTDZ_014-bkkpn3}
   - {type: 'kr:newline', offset: 2357, content: '
@@ -671,6 +673,7 @@ markers:
       ', id: KR5f0021_ZTDZ_014-bkkkrnewl154}
   - {type: line-break, offset: 2595, content: '', id: KR5f0021_SJB_014-280273b16}
   - {type: punctuation, offset: 2605, content: (, id: KR5f0021_ZTDZ_014-bkkpn4}
+  - {type: voice, offset: 2605, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 2607, content: /, id: KR5f0021_ZTDZ_014-bkkpn5}
   - {type: punctuation, offset: 2608, content: ), id: KR5f0021_ZTDZ_014-bkkpn6}
   - {type: 'kr:newline', offset: 2613, content: '
@@ -678,6 +681,7 @@ markers:
       ', id: KR5f0021_ZTDZ_014-bkkkrnewl155}
   - {type: line-break, offset: 2613, content: '', id: KR5f0021_SJB_014-280273b17}
   - {type: punctuation, offset: 2613, content: (, id: KR5f0021_ZTDZ_014-bkkpn7}
+  - {type: voice, offset: 2613, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 2615, content: /, id: KR5f0021_ZTDZ_014-bkkpn8}
   - {type: punctuation, offset: 2616, content: ), id: KR5f0021_ZTDZ_014-bkkpn9}
   - {type: 'kr:newline', offset: 2631, content: '
@@ -828,4 +832,4 @@ markers:
 
       ', id: KR5f0021_ZTDZ_014-bkkp11}
   back: []
-hash: sha256:70b94e53cf2e51d833bf8c1c31a7985fdeccb73bbe720eee08d90dd6e286140d
+hash: sha256:9123f206ca91074791e70c93de06165abe4cce7e7dfd8dfe55c7fd11655cbbfd

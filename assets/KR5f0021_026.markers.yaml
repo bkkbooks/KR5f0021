@@ -10,6 +10,7 @@ markers:
   - {type: page-break, offset: 0, content: '', id: KR5f0021_SJB_026-280295c, image: sjb/28/280295c.png}
   - {type: punctuation, offset: 10, content: (, id: KR5f0021_krp_026-bkkpn1}
   - {type: variant, offset: 10, length: 13, content: 二十七二十八二十九同卷真十, SBCK: 晋丹陽洪稚川著}
+  - {type: voice, offset: 10, length: 11, name: note, id: n1}
   - {type: punctuation, offset: 16, content: /, id: KR5f0021_krp_026-bkkpn2}
   - {type: punctuation, offset: 21, content: ), id: KR5f0021_krp_026-bkkpn3}
   body:
@@ -422,4 +423,4 @@ markers:
   - {type: variant, offset: 985, length: 0, content: '', SBCK: 終抱朴子外篇卷}
   - {type: page-break, offset: 985, content: '', id: KR5f0021_SBCK_027-1a}
   back: []
-hash: sha256:b293cdb66a8c105064fbcfdf8ee138595f24d29ec274581ab3fbcb1f6ca30bb9
+hash: sha256:0b50e3527b4fc00b406dd977740b1b7eb8035f01cbf0c24eef76bcfa6f0ec248
